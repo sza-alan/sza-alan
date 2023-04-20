@@ -1,4 +1,3 @@
-- 🔭 À procura de um emprego
 - 🌱 Estudando C# e MySQL
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sza-alan&show_icons=true&theme=radical)](https://github.com/sza-alan/github-readme-stats)
