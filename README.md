@@ -43,8 +43,7 @@ and Vue, which allows me to work on full stack flows when needed.
 
 ### Frontend
 - React
-- JavaScript / TypeScript
-- Vue.js
+- Angular
 
 ## 🚀 Featured Projects
 
