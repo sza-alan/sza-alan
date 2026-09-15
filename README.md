@@ -3,10 +3,13 @@
 Backend Developer focused on **.NET and C#**, with experience building APIs,
 system integrations and distributed applications.
 
-I currently work mainly with backend development and I'm continuously improving
-my knowledge in software architecture, messaging and AI applied to software development.
+I work mainly with backend development and have hands-on experience with
+REST APIs, databases, messaging and integrations between systems.
 
-## 🛠️ Tech Stack
+Currently, I'm also deepening my knowledge in software architecture and
+AI applied to software development.
+
+## 🛠️ Main Stack
 
 **Backend**
 - C# / .NET / ASP.NET Core
@@ -19,20 +22,16 @@ my knowledge in software architecture, messaging and AI applied to software deve
 - MySQL
 - MongoDB
 
-**Architecture & Engineering**
+**Architecture & Integration**
 - Clean Architecture
 - SOLID
 - Dependency Injection
 - CQRS / MediatR
 - Microservices
-- Unit & Integration Testing
+- Kafka / RabbitMQ
+- REST / SOAP
 
-**Messaging & Integration**
-- Kafka
-- RabbitMQ
-- REST / SOAP integrations
-
-**DevOps & Tools**
+**Tools**
 - Git
 - Docker
 - Azure DevOps
@@ -47,10 +46,10 @@ my knowledge in software architecture, messaging and AI applied to software deve
 
 ### ⭐ StudentRanking / Stellify
 
-Platform created to help teachers manage classes and students through
-gamification and performance tracking.
+Full-stack platform created to support classroom gamification and student
+performance tracking.
 
-**Main features**
+**Highlights**
 - Student and class management
 - Excel import
 - Monthly ranking cycles
@@ -72,8 +71,7 @@ gamification and performance tracking.
 Incident management platform built with **.NET 10**, focused on backend
 architecture, resilient integrations and AI-assisted incident analysis.
 
-Currently includes:
-
+**Currently implemented**
 - Clean Architecture
 - CQRS / MediatR
 - EF Core + SQLite
@@ -81,16 +79,14 @@ Currently includes:
 - Unit and integration tests
 - Resilient HTTP integrations
 - Retry and timeout strategies
-- Local LLM integration with Ollama
+- Local LLM with Ollama
 - Structured AI output
 
-Currently studying and implementing:
+**Next steps**
 
 `Tool Calling` · `AI Agents` · `MCP` · `RAG`
 
 ## 📚 Currently Learning
-
-I'm currently deepening my knowledge in:
 
 - Software Architecture
 - Distributed Systems
@@ -102,4 +98,3 @@ I'm currently deepening my knowledge in:
 ## 📫 Contact
 
 - LinkedIn: [Alan Souza](https://www.linkedin.com/in/sza-alan/)
-- GitHub: [@sza-alan](https://github.com/sza-alan)
