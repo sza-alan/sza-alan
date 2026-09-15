@@ -1,43 +1,47 @@
 # Hi, I'm Alan 👋
 
 Backend Developer focused on **.NET and C#**, with experience building APIs,
-system integrations and distributed applications.
+system integrations and backend solutions.
 
-I work mainly with backend development and have hands-on experience with
-REST APIs, databases, messaging and integrations between systems.
+I currently work mainly with backend development and have hands-on experience
+with REST APIs, databases, microservices, messaging and integrations between systems.
 
-Currently, I'm also deepening my knowledge in software architecture and
-AI applied to software development.
+I also have experience with frontend development using React, JavaScript/TypeScript
+and Vue, which allows me to work on full stack flows when needed.
 
 ## 🛠️ Main Stack
 
-**Backend**
+### Backend
 - C# / .NET / ASP.NET Core
 - Entity Framework Core
 - REST APIs
 - JWT Authentication
 
-**Databases**
+### Databases
 - SQL Server
 - MySQL
 - MongoDB
 
-**Architecture & Integration**
+### Architecture & Engineering
 - Clean Architecture
 - SOLID
 - Dependency Injection
 - CQRS / MediatR
 - Microservices
-- Kafka / RabbitMQ
-- REST / SOAP
+- Unit and Integration Testing
 
-**Tools**
+### Messaging & Integration
+- Kafka
+- RabbitMQ
+- REST / SOAP integrations
+
+### DevOps & Tools
 - Git
 - Docker
 - Azure DevOps
 - Jenkins
 
-**Frontend**
+### Frontend
 - React
 - JavaScript / TypeScript
 - Vue.js
@@ -66,12 +70,12 @@ performance tracking.
 
 ---
 
-### 🤖 IncidentHub — In Development
+### IncidentHub
 
-Incident management platform built with **.NET 10**, focused on backend
-architecture, resilient integrations and AI-assisted incident analysis.
+Backend project built with **.NET 10** to practice architecture, API development,
+external integrations, resilience and automated testing.
 
-**Currently implemented**
+**Implemented**
 - Clean Architecture
 - CQRS / MediatR
 - EF Core + SQLite
@@ -79,22 +83,17 @@ architecture, resilient integrations and AI-assisted incident analysis.
 - Unit and integration tests
 - Resilient HTTP integrations
 - Retry and timeout strategies
-- Local LLM with Ollama
-- Structured AI output
+- Structured logging
 
-**Next steps**
-
-`Tool Calling` · `AI Agents` · `MCP` · `RAG`
-
-## 📚 Currently Learning
+## 📚 Currently Improving
 
 - Software Architecture
 - Distributed Systems
-- AI applied to software development
-- LLMs and AI Agents
-- MCP and RAG
+- .NET Backend Development
+- Testing
 - Observability
+- System Integration
 
 ## 📫 Contact
 
-- LinkedIn: [Alan Souza](https://www.linkedin.com/in/sza-alan/)
+- LinkedIn: [Alan Souza](SEU_LINK_DO_LINKEDIN)
