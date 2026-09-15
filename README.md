@@ -1,41 +1,36 @@
-# Hi, I'm Alan 👋
+# Olá, eu sou o Alan 👋
 
-Backend Developer focused on **.NET and C#**, with experience building APIs,
-system integrations and backend solutions.
+Desenvolvedor Backend com foco em **.NET e C#**, com experiência no desenvolvimento de APIs, integrações entre sistemas, microsserviços e mensageria.
 
-I currently work mainly with backend development and have hands-on experience
-with REST APIs, databases, microservices, messaging and integrations between systems.
+Também tenho experiência com frontend em projetos utilizando React, JavaScript/TypeScript e Vue, o que me permite atuar em fluxos full stack quando necessário.
 
-I also have experience with frontend development using React, JavaScript/TypeScript
-and Vue, which allows me to work on full stack flows when needed.
-
-## 🛠️ Main Stack
+## 🛠️ Principais tecnologias
 
 ### Backend
 - C# / .NET / ASP.NET Core
 - Entity Framework Core
-- REST APIs
-- JWT Authentication
+- APIs REST
+- Autenticação com JWT
 
-### Databases
+### Bancos de dados
 - SQL Server
 - MySQL
 - MongoDB
 
-### Architecture & Engineering
+### Arquitetura e engenharia
 - Clean Architecture
 - SOLID
 - Dependency Injection
 - CQRS / MediatR
-- Microservices
-- Unit and Integration Testing
+- Microsserviços
+- Testes unitários e de integração
 
-### Messaging & Integration
+### Mensageria e integrações
 - Kafka
 - RabbitMQ
-- REST / SOAP integrations
+- Integrações REST / SOAP
 
-### DevOps & Tools
+### DevOps e ferramentas
 - Git
 - Docker
 - Azure DevOps
@@ -45,54 +40,54 @@ and Vue, which allows me to work on full stack flows when needed.
 - React
 - Angular
 
-## 🚀 Featured Projects
+## 🚀 Projetos em destaque
 
 ### ⭐ StudentRanking / Stellify
 
-Full-stack platform created to support classroom gamification and student
-performance tracking.
+Plataforma full stack desenvolvida para apoiar a gamificação em sala de aula e o acompanhamento de desempenho dos alunos.
 
-**Highlights**
-- Student and class management
-- Excel import
-- Monthly ranking cycles
-- Star-based scoring
-- Rewards and history
-- Authentication and authorization
-- Dashboard and reports
+**Principais funcionalidades**
+- Gestão de alunos e turmas
+- Importação via Excel
+- Ciclos mensais de ranking
+- Pontuação por estrelas
+- Recompensas e histórico
+- Autenticação e autorização
+- Dashboard e relatórios
 
 **Stack**
 
 `.NET 8` · `ASP.NET Core` · `EF Core` · `MySQL` · `JWT` · `MediatR` · `React`
 
-🔗 [View repository](https://github.com/sza-alan/StudentRanking)
+🔗 [Ver repositório](https://github.com/sza-alan/StudentRanking)
 
 ---
 
 ### IncidentHub
 
-Backend project built with **.NET 10** to practice architecture, API development,
-external integrations, resilience and automated testing.
+API backend desenvolvida em **.NET 10** para gerenciamento de incidentes, integrações externas e estudo de arquitetura e testes.
 
-**Implemented**
+**Principais pontos**
 - Clean Architecture
 - CQRS / MediatR
 - EF Core + SQLite
-- Pagination and filtering
-- Unit and integration tests
-- Resilient HTTP integrations
-- Retry and timeout strategies
-- Structured logging
+- Filtros e paginação
+- Testes unitários e de integração
+- Integrações HTTP resilientes
+- Retry e timeout
+- Logs estruturados
 
-## 📚 Currently Improving
+## 📚 Em evolução
 
-- Software Architecture
-- Distributed Systems
-- .NET Backend Development
-- Testing
-- Observability
-- System Integration
+Atualmente venho aprofundando meus conhecimentos em:
 
-## 📫 Contact
+- Arquitetura de software
+- Sistemas distribuídos
+- Backend com .NET
+- Testes
+- Observabilidade
+- Integrações entre sistemas
+
+## 📫 Contato
 
 - LinkedIn: [Alan Souza](SEU_LINK_DO_LINKEDIN)
