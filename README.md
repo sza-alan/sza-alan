@@ -90,4 +90,4 @@ Atualmente venho aprofundando meus conhecimentos em:
 
 ## 📫 Contato
 
-- LinkedIn: [Alan Souza](SEU_LINK_DO_LINKEDIN)
+- LinkedIn: [Alan Souza](https://www.linkedin.com/in/sza-alan/)
